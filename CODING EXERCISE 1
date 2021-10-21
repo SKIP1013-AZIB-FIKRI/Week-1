@@ -1,0 +1,15 @@
+package myInfo;
+
+public class Personal {
+
+public static void main(String[] args) {
+	// TODO Auto-generated method stub
+	System.out.println("Name : AZIB FIKRI BIN MOHD SUHAIMI");
+	System.out.println("NoMatric : 287970");
+	System.out.println("Course : BACHELOR IN COMPUTER SCIENCE WITH HONOURS");
+	System.out.println("Age : 19");
+	System.out.println("Address : No 6 jln elektron u16/75 Denai Alam 40160 Shah Alam ");
+	System.out.println("Father's Name : MOHD SUHAIMI BIN JUSOH");
+	System.out.println("Mother's Name : HAZIAN BINTI SULAIMAN");
+}
+}
